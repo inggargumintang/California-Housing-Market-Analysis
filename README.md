@@ -2,7 +2,7 @@
 ## Capstone Project #3 | Inggar Gumintang | JCDSOL - 014 - 2
 Refer to the full version of the code and analysis in the file [ipynb-capstone-tiga](https://github.com/inggargumintang/capstone-tiga-inggar/blob/main/capstone_tiga_inggar.ipynb)
 
-Video: 
+Video: [link](https://drive.google.com/file/d/1tfDsAnoPPF7n4iPYsj3iyfEQ-lG_l0YK/view?usp=drive_link)
 
 `Context:`
 In 1990, studying housing prices in California became a prominent topic due to the U.S. economic recession during that period. The recession impacted consumption and personal income, leading to significant effects on the real estate market. The purpose of this study is to identify the factors influencing housing prices in California's blocks in 1990, focusing on the properties of the houses, the income levels of buyers, and the geographical surroundings [[1]](https://eudl.eu/pdf/10.4108/eai.18-11-2022.2327138).
