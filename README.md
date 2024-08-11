@@ -1,6 +1,7 @@
 # California Dreamin' or Nightmarin'? Revealing the Hidden Factors Behind 1990's Housing Market
 ## Capstone Project #3 | Inggar Gumintang | JCDSOL - 014 - 2
 Refer to the full version of the code and analysis in the file [ipynb-capstone-tiga](https://github.com/inggargumintang/capstone-tiga-inggar/blob/main/capstone_tiga_inggar.ipynb)
+
 Video: 
 
 `Context:`
