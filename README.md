@@ -49,33 +49,8 @@ The VIF analysis indicates that there are no significant multicollinearity issue
 - Based on the evaluation results, Gradient Boosting is the best model with the lowest RMSE and MAPE, as well as the highest R2, indicating superior accuracy and explanatory power compared to Stacking - Linear Regression, which performs worse across all metrics. Other models like Random Forest and XGBoost also perform better than Stacking - Linear Regression, but still fall short compared to Gradient Boosting.
 - The hyperparameter tuning for Gradient Boosting did not lead to significant improvements in test metrics. The test RMSE, MAPE, and R² values remained the same before and after tuning, indicating that the selected hyperparameters were already well-suited for this model or that further tuning may be needed to observe more notable changes.
 
-### Conclusion on Model Performance
+### Conclusion
 - Profit Margin Estimation: only increase 0.61% after applied Gradient Boosting, still under 0.8% (read context)
-#### Review on Selected Model
-- Historical Data
-    - Detail: Data is specific to 1990, potentially making findings less relevant to current market conditions.
-    - Impact: Insights may not fully reflect today’s housing market.
-
-- Limited Features
-    - Detail: Excludes important details like specific room types and lot size.
-    - Impact: Model accuracy may be constrained by the lack of granular data.
-
-- Economic Changes
-    - Detail: Focuses on the 1990 recession, which may not apply to other economic conditions.
-    - Impact: Results might not be applicable to different economic scenarios.
-
-- Data Quality
-    - Detail: Potential data errors or missing values.
-    - Impact: Can affect the overall accuracy of the model.
-
-- Hyperparameter Tuning
-    - Detail: Did not significantly improve performance.
-    - Impact: Model’s potential might be limited by current settings.
-
-- External Factors
-    - Detail: Excludes factors like interest rates or tax incentives.
-    - Impact: Model might not provide a complete picture of housing prices.
-
 #### Business Recommendations
 - Feature Expansion: Improve the dataset with detailed property features and lot size to enhance model accuracy and understanding of pricing factors.
 - Target Market Analysis: Focus on high-value properties in desirable locations like "Near Ocean" or "Island" for long-term investments. Tailor offerings to affluent buyers or those interested in vacation properties.
