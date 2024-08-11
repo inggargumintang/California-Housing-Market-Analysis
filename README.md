@@ -1,5 +1,6 @@
 # California Dreamin' or Nightmarin'? Revealing the Hidden Factors Behind 1990's Housing Market
 ## Capstone Project #3 | Inggar Gumintang | JCDSOL - 014 - 2
+Refer to the full version of the code and analysis in the file [ipynb-capstone-tiga](https://github.com/inggargumintang/capstone-tiga-inggar/blob/main/capstone_tiga_inggar.ipynb)
 Video: 
 
 `Context:`
@@ -27,7 +28,7 @@ We need to analyze the dataset to uncover patterns and relationships between pro
 - Handling Outliers
 
 ### Exploratory Data Analysis
-#### (Sample) Correlation
+#### Correlation
 ![Correlation](image/correlation.png)
 - Income and House Value: The correlation of 0.68 between median income and median house value suggests a strong relationship. Generally, customers seek homes within their budget, and higher income typically enables higher spending on more expensive properties.
 - Household Size and Property Features: High correlations between households, population, total bedrooms, and total rooms indicate that larger households and populations are associated with more spacious homes. This trend suggests that customers with larger families or more significant household sizes might prefer properties with more rooms and amenities.
